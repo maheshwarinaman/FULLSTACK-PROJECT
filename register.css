@@ -14,9 +14,9 @@ body{
   background-image: url(Images/register.jpg);
 }
 .container{
-  width:470px;
+  width:350px;
   background-color: white;
-  height:500px;
+  height:440px;
   border-radius: 4px;
 }
 #form{
@@ -32,7 +32,7 @@ h1{
 }
 .input{
   margin: 15px;
-  height:30px;
+  height:20px;
   border:none;
   outline:none;
   border-bottom:1px solid black;
@@ -92,7 +92,7 @@ h1{
   visibility: hidden;
 }
 #submit-btn{
-  width:425px;
+  width:200px;
   height:40px;
   text-align: center;
   margin:20px auto;
